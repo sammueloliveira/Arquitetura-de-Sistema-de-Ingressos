@@ -2,7 +2,7 @@
 ## Componentes
 
 1. **Frontend**: Interface em React/Angular para navegação e compra de ingressos.
-2. **API de Autenticação**: Serviço em Node.js/Django gerenciando login e registro com JWT.
+2. **API de Autenticação**: Serviço em .NET/C# gerenciando login e registro com JWT.
 3. **Gerenciador de Ingressos**: Controla disponibilidade e vendas.
 4. **Banco de Dados**: PostgreSQL/MongoDB para armazenar dados de usuários e eventos.
 5. **Sistema de Fila**: RabbitMQ/Redis para gerenciar requisições de compra.
